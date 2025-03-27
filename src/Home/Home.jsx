@@ -3,7 +3,7 @@ import HeroSection from "./HeroSection";
 import Features from "./Features";
 import Process from "./Process";
 import FAQ from "./FAQ";
-import Roleselection from "./roleselection";
+import Roleselection from "./RoleSelection";
 export const Home = () => {
   return (
     <div>
