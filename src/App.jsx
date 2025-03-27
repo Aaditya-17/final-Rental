@@ -21,7 +21,7 @@ import EquipmentListing from "./Admin/EquipmentListing";
 import FarmGram from "./FarmGram/FarmGram";
 import AdminPosts from "./Admin/AdminPosts";
 import MyEquipment from "./Profile/MyEquipment";
-import Roleselection from "./Home/Roleselection";
+import RoleSelection from "./Home/RoleSelection";
 import RentEquipment from "./Equipment/RentEquipment";
 import SearchLabor from "./Labor/SearchLabor";
 import Rentals from "./Profile/Rentals";
@@ -58,7 +58,7 @@ function App() {
             <Route path="/FarmGram" element={<FarmGram />} />
             <Route path="/AdminPosts" element={<AdminPosts />} />
             <Route path="/MyEquipment " element={<MyEquipment />} />
-            <Route path="/Roleselection " element={<Roleselection />} />
+            <Route path="/RoleSelection " element={<RoleSelection />} />
             <Route path="/RentEquipment" element={<RentEquipment />} />
             <Route path="/SearchLabor" element={<SearchLabor />} />
             <Route path="/Rentals" element={<Rentals />} />
