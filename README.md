@@ -20,8 +20,8 @@ Follow these steps to set up the project on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/farm-equipment-rental.git
-cd farm-equipment-rental
+git clone https://github.com/Aaditya-17/final-Rental.git
+cd final-Rental
 ```
 
 ### 2. Install Dependencies
